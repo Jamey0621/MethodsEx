@@ -1,0 +1,13 @@
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.csprojAssemblyReference.cache
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.AssemblyInfoInputs.cache
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.AssemblyInfo.cs
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.csproj.CoreCompileInputs.cache
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\bin\Debug\netcoreapp3.1\MethodsEx.exe
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\bin\Debug\netcoreapp3.1\MethodsEx.deps.json
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\bin\Debug\netcoreapp3.1\MethodsEx.runtimeconfig.json
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\bin\Debug\netcoreapp3.1\MethodsEx.runtimeconfig.dev.json
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\bin\Debug\netcoreapp3.1\MethodsEx.dll
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\bin\Debug\netcoreapp3.1\MethodsEx.pdb
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.dll
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.pdb
+C:\Users\Jamey\repos\Methods\MethodsEx\MethodsEx\obj\Debug\netcoreapp3.1\MethodsEx.genruntimeconfig.cache

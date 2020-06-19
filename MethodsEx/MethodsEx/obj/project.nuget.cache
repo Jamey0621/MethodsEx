@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziH+esi9tLnmvaJT1KEgowqIkqVkbGRST+DSRLTpMTwKo+J9aKRzI95fAfrVmoMNCuhmycG5qBhwGOqxhzeq5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamey\\repos\\Methods\\MethodsEx\\MethodsEx\\MethodsEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
